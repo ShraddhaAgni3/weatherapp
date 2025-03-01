@@ -1,3 +1,4 @@
+A simple weather application built with React and OpenWeatherMap API. It allows users to search for a city and view the current weather along with a 5-day forecast.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
